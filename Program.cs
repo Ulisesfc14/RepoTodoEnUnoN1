@@ -12,6 +12,7 @@ namespace TodoEnUnoN1
     {
       Console.WriteLine("Hola Mundo");
       Console.ReadLine();
+      Console.WriteLine("¿Què tal?"); 
     }
   }
 }
